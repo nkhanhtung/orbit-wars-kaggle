@@ -1,1 +1,1 @@
-# orbit-wars-kaggle
+# Orbit Wars Kaggle Competition
