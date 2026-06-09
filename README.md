@@ -1,1 +1,1 @@
-# Orbit Wars Kaggle Competition
+# Orbit Wars Kaggle Agents
